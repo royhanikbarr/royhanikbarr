@@ -41,12 +41,11 @@
    - Looking for other opportunity to self development 
 
 ### Languages and Tools:
-
+[<img align="left" alt="Aspen Plus" width="90px" src="https://images.squarespace-cdn.com/content/v1/5d52f0d708034a000126d1dd/1566323993201-S8CFIV3EGFYE7GSVZGZV/Aspen+Plus_Logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Aspen Hysys" width="30px" src="https://img.informer.com/icons/png/128/29/29544.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Aspen Energy Analyzer" width="30px" src="https://img.informer.com/icons/png/128/7266/7266063.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="R Studio" width="30px" src="https://marketplace-assets.digitalocean.com/logos/rstudio-20-04.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Aspen Plus" width="30px" src="https://images.squarespace-cdn.com/content/v1/5d52f0d708034a000126d1dd/1566323993201-S8CFIV3EGFYE7GSVZGZV/Aspen+Plus_Logo.png" style="padding-right:10px;" />][webdev]
 <br />
 <br />
 
