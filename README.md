@@ -19,7 +19,7 @@
    - Conduct training for UNS Student to prepare research competition (PKM)
    - Support UNS PKM team to winning the competition 
 #### 2. [PTPG Rajawali 1 Unit PG Rejo Agung Baru](https://pgrajawali1.co.id/pg-rejo-agung-baru/) | Student Intern | Madiun `2022`
-   - Evaluate Evaporator Process
+   - Evaluate Multiple Effect Evaporator
    - Research and make some inovation about the sugar making processes
    
 ## Student Organization:
