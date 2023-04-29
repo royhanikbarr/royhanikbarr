@@ -9,7 +9,7 @@
 ## Education:
 
 #### 1. [Universitas Sebelas Maret](https://www.uns.ac.id) | Undergraduate Student of Chemical Engineering | Surakarta `2019-2023`
-   - Currently in last semester with GPA 3.62 
+   - Currently in last semester with GPA 3.67 
    - Enthusiat in Process Control and Optimization by able to use simulation design software and python
 #### 2. [MAN 1 Yogyakarta](https://man1yogyakarta.sch.id/) | MIPA | Yogyakarta `2016-2019`
    - Focus on student research in highschool by finish 2 title of research report to prepare highschool research competition
